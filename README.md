@@ -4,18 +4,31 @@ This repo has my blockchain testnet exprience and data.
 These are my testnet public address.
 
 Aleo: aleo1mltw54urme5tagftwv4e2kdpaxvsfhz48s8d5za30c42pyljysrsgeku87
+
 Casper: 019b2ba3a98fb02948d18f9220110ba04457d95f756ca926b2067a9107bbf212d7
+
 Evmos: evmos1r58dh84208ug257sl4nzhqqr3cuw2awn0ycn76
+
 Massa: CrBA36ALqszG7dLGbBELBws6PnYzBYeZN34NixuMVJcumvRMv
+
 Streamr: 0xd4ca0ff99c7FE826fAC57b0aFB47b391278252C6
+
 Bitcanna: bcna1sjplxjx3x8qz0j4kr4zj4pa9t7u94tt98njmx5
+
 Stargaze: starsvaloper19d9lzfm3cc736u3nr60rvd3ryfp5eqc8pz92dm
+
 Stargaze: stars19d9lzfm3cc736u3nr60rvd3ryfp5eqc82u37kr
+
 Meterio: 2c2b5dfbf282c2550a7eb872a980df31a9227b57
+
 Regen: 1jn48k4ewkl33usup97dv4ysf74s22kl8h4g6st
+
 STX: ST140RGKNC5EC6C3719D1EDSFS9D5CCD6GS857MSE
+
 Meson: 
+
 Stratos: st1ealfljkjpwyn3w6rytcd47xf5qrw76sek05yzm
+
 Axelar: axelar1pzl3eg3axdlvvx4eq6w55nlmrq8q78sxfms7yn
 
 
