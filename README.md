@@ -31,4 +31,5 @@ Stratos: st1ealfljkjpwyn3w6rytcd47xf5qrw76sek05yzm
 
 Axelar: axelar1pzl3eg3axdlvvx4eq6w55nlmrq8q78sxfms7yn
 
+Omniflix: omniflixvaloper1v9ea9l28fqr034keky05mhsx7h4wm9sgt2jy34
 
